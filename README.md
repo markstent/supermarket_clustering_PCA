@@ -1,4 +1,6 @@
 ﻿# Supermarket Orders Dataset Analysis using K-means Clustering and PCA
+ 
+ ![KMeans PCA Pairplot](https://github.com/markstent/supermarket_clustering_PCA/blob/main/customer_pca.png)
 
 This project aims to explore the Supermarket Orders 2023 dataset by applying K-means Clustering and Principal Component Analysis (PCA) techniques. (https://www.kaggle.com/datasets/hunter0007/ecommerce-dataset-for-predictive-marketing-2023)
 
@@ -64,14 +66,13 @@ The second part of the project involves applying K-means Clustering and PCA tech
 
 ## Results
 
-The results of the analysis are presented in the Jupyter notebook that can be found [here](https://www.kaggle.com/markstent/supermarket-data-eda-kmeans/edit). The notebook includes the following:
+The results of the analysis are presented in the Jupyter notebook that can be found [here](https://www.kaggle.com/markstent/supermarket-data-eda-kmeans/edit) or in the repositry [here](https://github.com/markstent/supermarket_clustering_PCA/blob/main/supermarket-data-eda-kmeans.ipynb). The notebook includes the following:
 
 1.  Data preprocessing steps
 2.  K-means clustering analysis
 3.  PCA analysis
 4.  Visualization of results using plots
 
-![KMeans PCA Pairplot](https://github.com/markstent/supermarket_clustering_PCA/blob/main/customer_pca.png)
 
 ## Conclusion
 
